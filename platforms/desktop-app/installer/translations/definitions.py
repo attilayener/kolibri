@@ -58,6 +58,11 @@ LANG_DEFINITIONS = {
         "id": "$0416",
         "display_name": "Português (Brazil)",
     },
+    "tr": {
+        "inno_file": "Languages/Turkish.isl",
+        "id": "$041F",
+        "display_name": "Türkçe",
+    },
     "uk": {
         "inno_file": "Languages/Ukrainian.isl",
         "id": "$0422",

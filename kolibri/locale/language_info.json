@@ -203,6 +203,13 @@
     "default_font": "NotoSansTelugu"
   },
   {
+    "crowdin_code": "tr",
+    "intl_code": "tr",
+    "language_name": "Türkçe",
+    "english_name": "Turkish",
+    "default_font": "NotoSans"
+  },
+  {
     "crowdin_code": "uk",
     "intl_code": "uk",
     "language_name": "Украї́нська мо́ва",
